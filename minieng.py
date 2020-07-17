@@ -1,4 +1,4 @@
-mport os
+import os
 print('MiniENG 1.0.3')
 records = []
 namespace = {}
